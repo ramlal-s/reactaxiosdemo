@@ -31,5 +31,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "GET API data example using axios",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramlal-s/reactaxiosdemo.git"
+  },
+  "author": "ramlal S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramlal-s/reactaxiosdemo/issues"
+  },
+  "homepage": "https://github.com/ramlal-s/reactaxiosdemo#readme"
 }
